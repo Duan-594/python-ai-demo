@@ -1,0 +1,11 @@
+# Python虚拟环境
+Lib/
+Scripts/
+pyvenv.cfg
+CACHEDIR.TAG
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
