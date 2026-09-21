@@ -10,13 +10,18 @@ AI模型简易部署Demo，将模型封装成Web API接口，支持外部调用�
 
 ai_deploy_demo/
 ├── main.py          # 项目入口
+
 ├── api_server.py    # API服务逻辑
+
 ├── .gitignore       # Git忽略文件配置
+
 ├── requirements.txt # 项目依赖清单
+
 └── README.md        # 项目文档
 
 
 ## 运行步骤
+
 1. 安装依赖
 ```bash
 pip install -r requirements.txt
