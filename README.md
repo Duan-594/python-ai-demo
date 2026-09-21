@@ -3,8 +3,8 @@
 AI模型简易部署Demo，将模型封装成Web API接口，支持外部调用推理服务。
 
 ## 技术栈
-- Python 3.x
-- Web框架：FastAPI / Flask（按需修改）
+- Python 3.11.9
+- Web框架：FastAPI
 - Git 版本控制
 - GitHub 代码托管
 
